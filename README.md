@@ -4,59 +4,16 @@
 This project implements a Hidden Markov Model (HMM) for human activity recognition using smartphone sensor data. The system classifies four human activities: **Standing, Walking, Jumping, and Still** using accelerometer and gyroscope data with **74.07% accuracy**.
 
 ---
-
-## 🎯 Assignment Requirements Fulfilled
-
-### ✅ Data Collection & Quality (10 pts)
-- **50+ well-labelled files** of 5-10 seconds each
-- **4 activities recorded**: Standing, Walking, Jumping, Still  
-- **2 users**: Excel and Lesly
-- **Sampling rate harmonization**: 50Hz
-- **Visualization plots** included in report
-
-### ✅ Feature Extraction (10 pts)
-- **Time-domain features**: Mean, STD, Variance, RMS, SMA, Energy, Skewness, Kurtosis
-- **Frequency-domain features**: Spectral energy, Dominant frequency, Spectral centroid
-- **15+ features** selected using Random Forest + ANOVA
-- **Feature normalization** with StandardScaler
-
-### ✅ Implementation (15 pts)
-- **Baum-Welch algorithm** for HMM training
-- **Viterbi algorithm** for sequence decoding
-- **Model convergence** achieved
-- **Modular, documented code**
-
-### ✅ Evaluation on Unseen Data (10 pts)
-- **Cross-user validation**: Train on Excel, test on Lesly
-- **Metrics**: Sensitivity, Specificity, Accuracy
-- **Confusion matrices** and performance visualization
-- **Transition probability heatmaps**
-
-### ✅ Collaboration & GitHub (10 pts)
-- **Balanced contributions**: 50/50 split
-- **Task allocation table** provided
-- **GitHub commit history** shows collaboration
-
-### ✅ Report Presentation (5 pts)
-- **4-5 page professional report**
-- **Clear structure** with all required sections
-- **Visualizations** and performance metrics
-
----
-
 ## 📁 File Structure
 
 ```
 HMM_Activity_Recognition/
-├── 📊 Report/
-│   ├── Project_Report.pdf
-│   └── Presentation_Slides.pdf
-├── 🔧 Code/
+├──  Code/
 │   ├── 1_Data_Collection_Preprocessing.ipynb
 │   ├── 2_Feature_Engineering.ipynb
 │   ├── 3_HMM_Implementation.ipynb
 │   └── 4_Evaluation_Analysis.ipynb
-├── 📁 Data/
+├──  Data/
 │   ├── excel/
 │   │   ├── jumping/*.csv
 │   │   ├── standing/*.csv
@@ -67,7 +24,7 @@ HMM_Activity_Recognition/
 │       ├── standing/*.csv
 │       ├── walking/*.csv
 │       └── still/*.csv
-├── 📈 Results/
+├──  Results/
 │   ├── models/hmm_activity_model.pkl
 │   ├── metrics/performance_summary.json
 │   ├── metrics/cross_validation_results.csv
@@ -75,7 +32,7 @@ HMM_Activity_Recognition/
 │       ├── confusion_matrix.png
 │       ├── transition_matrix.png
 │       └── feature_importance.png
-└── 📄 Documentation/
+└── Documentation/
     ├── README.md
     ├── requirements.txt
     └── CONTRIBUTION.md
