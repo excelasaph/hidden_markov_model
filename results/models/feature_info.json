@@ -1,0 +1,27 @@
+{
+  "selected_features": [
+    "gyro_y_sma",
+    "gyro_x_std",
+    "gyro_x_rms",
+    "accel_z_spectral_energy",
+    "accel_x_rms",
+    "gyro_x_spectral_energy",
+    "gyro_y_range",
+    "accel_x_std",
+    "gyro_x_variance",
+    "accel_x_sma",
+    "gyro_y_variance",
+    "accel_y_range",
+    "gyro_y_energy",
+    "gyro_x_max",
+    "accel_x_min"
+  ],
+  "feature_count": 15,
+  "state_names": [
+    "standing",
+    "walking",
+    "jumping",
+    "still"
+  ],
+  "timestamp": "20251026_223908"
+}
