@@ -112,18 +112,5 @@ numpy, pandas, matplotlib, seaborn, scipy, scikit-learn
 * `training_metrics_20251031_180138.json` – Training statistics
 * `evaluation_metrics.csv` – Performance metrics
 
----
-
-This README provides a complete overview of the project, including structure, results, and instructions for use.
-
-```
-
- **Improvements Made:**  
-1. Clearer headings with consistent formatting.  
-2. Added horizontal lines (`---`) for better visual separation.  
-3. Improved tables for readability.  
-4. Usage and requirements sections are more concise.  
-5. Language polished for professionalism and clarity.  
-
 
 
