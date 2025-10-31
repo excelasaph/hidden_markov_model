@@ -22,7 +22,6 @@ HMM-Activity-Recognition/
 ├── reports/
 │   └── figures/                   # Generated visualizations
 ├── evaluation_metrics.csv         # Performance metrics
-└── collaboration_log.xlsx        # Task allocation
 ```
 
 ## Key Results
