@@ -29,11 +29,10 @@ HMM-Activity-Recognition/
 │   ├── scaler_20251031_180138.pkl
 │   ├── feature_names_20251031_180138.json
 │   └── training_metrics_20251031_180138.json
-├── reports/
-│   └── figures/                   # Generated visualizations
-├── evaluation_metrics.csv         # Performance metrics
-└── collaboration_log.xlsx         # Task allocation
-
+├── report/
+│   └── report.pdf/                   
+├── metrics       
+└── plots        
 ````
 
 ---
