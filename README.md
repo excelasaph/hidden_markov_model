@@ -48,14 +48,15 @@ Run the Jupyter notebook `hmm_activity_recognition_final.ipynb` to:
 5. Generate visualizations and metrics
 
 ## Test Performance
-| Activity | Samples | Sensitivity | Specificity |
-|----------|---------|-------------|-------------|
-| Jumping  | 38      | 0.8947      | 0.9474      |
-| Walking  | 38      | 0.9474      | 0.8947      |
-
 TRAINING Metrics Table:
 State (Activity)  Number of Samples Sensitivity Specificity Overall Accuracy
          jumping                406      1.0000      1.0000           1.0000
         standing                402      1.0000      1.0000           1.0000
            still                360      1.0000      1.0000           1.0000
          walking                508      1.0000      1.0000           1.0000
+         
+| Activity | Samples | Sensitivity | Specificity |
+|----------|---------|-------------|-------------|
+| Jumping  | 38      | 0.8947      | 0.9474      |
+| Walking  | 38      | 0.9474      | 0.8947      |
+
