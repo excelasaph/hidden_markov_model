@@ -48,7 +48,7 @@ Run the Jupyter notebook `hmm_activity_recognition_final.ipynb` to:
 5. Generate visualizations and metrics
 ---
 
-### 🧠 **Training Metrics Table Overview**
+### **Training Metrics Table Overview**
 
 | **State (Activity)** | **Number of Samples** | **Sensitivity** | **Specificity** | **Overall Accuracy** |
 | -------------------: | --------------------: | --------------: | --------------: | -------------------: |
