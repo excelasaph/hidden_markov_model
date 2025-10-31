@@ -4,7 +4,7 @@
 This project implements a Hidden Markov Model (HMM) to classify human activities (Jumping, Standing, Still, Walking) using smartphone sensor data from accelerometer and gyroscope.
 
 ## Group Members
-- **Ndizeye** - Data Collection, Feature Engineering, HMM Implementation
+- **Excel** - Data Collection, Feature Engineering, HMM Implementation
 - **Lesly** - Data Collection, Model Evaluation, Report Writing
 
 ## Project Structure
