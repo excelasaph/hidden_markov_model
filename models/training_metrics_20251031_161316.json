@@ -1,0 +1,21 @@
+{
+  "timestamp": "20251031_161316",
+  "training_samples": 1676,
+  "test_samples": 76,
+  "n_features": 36,
+  "n_states": 4,
+  "state_names": [
+    "jumping",
+    "standing",
+    "still",
+    "walking"
+  ],
+  "train_accuracy": 1.0,
+  "test_accuracy": 0.9210526315789473,
+  "activities": [
+    "jumping",
+    "standing",
+    "still",
+    "walking"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "overall_accuracy": 0.125,
-  "mean_cross_val_accuracy": 0.375,
-  "n_training_samples": 432,
-  "n_features": 15,
-  "model_converged": true,
-  "final_log_likelihood": 8589.150698097477,
-  "timestamp": "20251026_223908"
-}
