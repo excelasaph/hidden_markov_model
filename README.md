@@ -50,19 +50,10 @@ Run the Jupyter notebook `hmm_activity_recognition_final.ipynb` to:
 
 ### **Training Metrics Table Overview**
 
-| **State (Activity)** | **Number of Samples** | **Sensitivity** | **Specificity** | **Overall Accuracy** |
-| -------------------: | --------------------: | --------------: | --------------: | -------------------: |
-|              jumping |                   406 |          1.0000 |          1.0000 |               1.0000 |
-|             standing |                   402 |          1.0000 |          1.0000 |               1.0000 |
-|                still |                   360 |          1.0000 |          1.0000 |               1.0000 |
-|              walking |                   508 |          1.0000 |          1.0000 |               1.0000 |
 ---
 ## Test Performance
 
 **Overall Test Accuracy**: 92.11%
 
-| Activity | Samples | Sensitivity | Specificity |
-|----------|---------|-------------|-------------|
-| Jumping  | 38      | 0.8947      | 0.9474      |
-| Walking  | 38      | 0.9474      | 0.8947      |
+
 
