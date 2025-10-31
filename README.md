@@ -21,7 +21,7 @@ HMM-Activity-Recognition/
 ├── models/                        # Saved models and scalers
 ├── reports/
 │   └── figures/                   # Generated visualizations
-├── evaluation_metrics.csv         # Performance metrics
+├── metrics       # Performance metrics
 ```
 
 ## Key Results
