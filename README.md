@@ -59,6 +59,8 @@ Run the Jupyter notebook `hmm_activity_recognition_final.ipynb` to:
 ---
 ## Test Performance
 
+**Overall Test Accuracy**: 92.11%
+
 | Activity | Samples | Sensitivity | Specificity |
 |----------|---------|-------------|-------------|
 | Jumping  | 38      | 0.8947      | 0.9474      |
