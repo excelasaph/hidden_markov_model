@@ -59,5 +59,4 @@ State (Activity)  Number of Samples Sensitivity Specificity Overall Accuracy
         standing                402      1.0000      1.0000           1.0000
            still                360      1.0000      1.0000           1.0000
          walking                508      1.0000      1.0000           1.0000
-```
 
